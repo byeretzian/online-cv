@@ -70,14 +70,19 @@ experiences:
   info:
     - role: Engineer II, Information Services
       company: Honda Racing Corporation
-      time: 2019 - Present
+      time: 2023 - Present
       details: |
-        - Use Angular and Node to create Azure-hosted websites and databases to access and visualize data and prepare infrastructure for live data streaming and analysis with Databricks and Kafka.
-        - Collect and organize wind tunnel data and build multiple aerodynamic models per year using Python using SciKit Learn for use by aerodynamicists, to support simulations, and provide customers with event preparation.
-        - Develop methods to collect, clean, analyze, and visualize race data in Python using Matplotlib and Pandas to form concise and statistically supported reports after each race event, which are used in presentations to investigate competitiveness and increase understanding of performance.
-        - Write Python code to scrub off-car data at track tests, making information available momentarily after a run. Use statistical methods to quantify gains, resulting in significant performance increases.
-        - Create tools using C#/C++ and object oriented programming in order to improve workflow in an effort to streamline the process of wind tunnel testing and aerodynamic modeling.
+        - Use Angular and Node to create Azure-hosted websites and databases to access and visualize data. Prepare infrastructure for live data streaming and analysis with Databricks and Kafka.
+        - Develop a C# package for collecting data from a Cosmos DB after a race along with a Python library to form concise and statistically supported reports after each race event.
         - Initialize and maintain GitHub repositories to support the needs of multiple groups. Provide guidance on using version control, structuring code, and using Azure.
+        - Write test suites and documentation for code bases in Python, C#, and Typescript. Implement testing in CI/CD with GitHub Actions.
+    - role: Engineer I, Data Analytics
+      company: Honda Racing Corporation
+      time: 2019 - 2023
+      details: |
+        - Collect and organize wind tunnel data and build multiple aerodynamic models per year using Python using SciKit Learn to support simulations and provide customers teams with preparation for each race.
+        - Write Python code to scrub off-car data at track tests, making information available momentarily after a run. Use statistical methods to quantify gains, resulting in significant performance increases.
+        - Create tools using  C#/C++ and object oriented programming in order to improve workflow in an effort to streamline the process of wind tunnel testing and aerodynamic modeling.
     - role: Ambassador
       company: EOS Lounge Santa Barbara
       time: 2017 - 2018
@@ -99,10 +104,13 @@ projects:
   title: Projects
   intro: >
     A collection of academic and personal data science and software engineering projects.
-  assignments:
+  publications:
     - title: Data Exploration with Spotify
       link: "https://medium.com/@barrettyeretzian/exploratory-data-analysis-with-spotify-a17d6aaf5d94"
       tagline: "An introductory data exploration project using Spotify's python API."
+    - title: Python APIs, Testing, and GitHub CI/CD
+      link: "https://medium.com/@barrettyeretzian/python-apis-testing-and-github-ci-cd-6e127327eb32"
+      tagline: "A short outline of writing and testing APIs in Python with Flask, Pytest, and GitHub Actions.
 
 skills:
   title: Skills &amp; Proficiency
@@ -111,10 +119,10 @@ skills:
     - name: Python
       level: 98%
 
-    - name: Javascript & Node
+    - name: Javascript/Typescript
       level: 98%
 
-    - name: Angular
+    - name: Angular/Node
       level: 98%
 
     - name: SQL
