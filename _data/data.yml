@@ -104,7 +104,7 @@ projects:
       tagline: "An introductory data exploration project using Spotify's python API."
     - title: Python APIs, Testing, and GitHub CI/CD
       link: "https://medium.com/@barrettyeretzian/python-apis-testing-and-github-ci-cd-6e127327eb32"
-      tagline: "A short outline of writing and testing APIs in Python with Flask, Pytest, and GitHub Actions.
+      tagline: "A short outline of writing and testing APIs in Python with Flask, Pytest, and GitHub Actions."
 
 skills:
   title: Skills &amp; Proficiency
