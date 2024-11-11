@@ -98,7 +98,7 @@ projects:
   title: Projects
   intro: >
     A collection of academic and personal data science and software engineering projects.
-  publications:
+  assignments:
     - title: Data Exploration with Spotify
       link: "https://medium.com/@barrettyeretzian/exploratory-data-analysis-with-spotify-a17d6aaf5d94"
       tagline: "An introductory data exploration project using Spotify's python API."
