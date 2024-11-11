@@ -43,15 +43,15 @@
     </li>
     {% endif %}
 
-    {% if sidebar.medium %}
-    <li class="xing"><i class="fab fa-xing"></i>
-      <a target="_blank">{{ sidebar.medium }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.medium %}
+    <li class="xing">
+      <a target="_blank">{{ sidebar.medium }}</a>
     </li>
     {% endif %}
 
