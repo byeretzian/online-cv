@@ -66,10 +66,10 @@ experiences:
       company: Honda Racing Corporation
       time: 2023 - Present
       details: |
-        - Use Angular and Node to create Azure-hosted websites and databases to access and visualize data. Prepare infrastructure for live data streaming and analysis with Databricks and Kafka.
-        - Develop a C# package for collecting data from a Cosmos DB after a race along with a Python library to form concise and statistically supported reports after each race event.
+        - Use Angular and Node to create Azure-hosted websites and databases to access, visualize, and model data. Containerize websites with Docker and deploy to Azure via GitHub Actions. 
+        - Develop a C# package for collecting data from a Cosmos DB after a race along with a Python library to form concise and statistically supported reports after each race event. Prepare infrastructure for live data streaming and analysis with Databricks and Kafka.
         - Initialize and maintain GitHub repositories to support the needs of multiple groups. Provide guidance on using version control, structuring code, and using Azure.
-        - Write test suites and documentation for code bases in Python, C#, and Typescript. Implement testing in CI/CD with GitHub Actions.
+        - Write test suites and documentation for code bases in Python, C#, and Typescript. Implement testing in CI/CD with GitHub Actions to ensure code quality.
     - role: Engineer I, Data Analytics
       company: Honda Racing Corporation
       time: 2019 - 2023
@@ -132,7 +132,7 @@ skills:
       level: 90%
 
     - name: C++
-      level: 85%
+      level: 75%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
