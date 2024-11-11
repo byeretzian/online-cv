@@ -13,17 +13,11 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email:
-  phone: 012 345 6789
   timezone: PST
   citizenship: USA
-  website: #do not add http://
   linkedin: https://www.linkedin.com/in/byeretzian/
   github: https://github.com/byeretzian
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  medium: https://medium.com/@barrettyeretzian
 
   languages:
     title: Languages
@@ -119,10 +113,10 @@ skills:
     - name: Python
       level: 98%
 
-    - name: Javascript/Typescript
+    - name: Javascript & Typescript
       level: 98%
 
-    - name: Angular/Node
+    - name: Angular & Node
       level: 98%
 
     - name: SQL
